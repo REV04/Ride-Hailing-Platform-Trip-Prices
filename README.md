@@ -1,4 +1,4 @@
-# Ride-Hailing-Platform-Trip-Prices
+# Ride Hailing Platform Trip Prices
 This project, "Ride Hailing Platform Trips," is part of my Hacktiv8 coursework on regression. It serves as both a requirement for my Hacktiv8 studies and a component of my personal portfolio in Data Science. I created this project with a fictional background, made solely for the purpose of the project. You can find my other personal projects on [Richard Edgina Virgo](https://github.com/REV04).
 
 #### -- Project Status: Finished
